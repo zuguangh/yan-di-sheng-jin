@@ -16,8 +16,8 @@ Follow these steps to set up the environment and install necessary dependencies:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/zuguangh/盐地生金.git
-   cd 盐地生金
+   git clone https://github.com/zuguangh/yan-di-sheng-jin.git
+   cd yan-di-sheng-jin
    ```
 
 2. **Create a virtual environment (Recommended):**
